@@ -10,6 +10,19 @@ body {
   color: #1f2937;
 }
 
+.conspect-link {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background: #e9690030;
+  text-decoration: none;
+  border: 2px solid #e06500;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  color: #d66400;
+}
+
 .page-title {
   text-align: center;
   font-size: 28px;
